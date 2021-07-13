@@ -1,4 +1,4 @@
--- CLASS SCHEDULE SYSTEM --
+## Class Schedule System
 
 Here I developed a class schedule system that notifies students and teachers
 about the information of a class such as course no., topic name, teacher name and date
